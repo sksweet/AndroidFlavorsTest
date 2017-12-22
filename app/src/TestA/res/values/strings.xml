@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestA</string>
+    <string name="title_activity_welcome">His/Her Royal Highness</string>
+    <string name="hello_world">TestA</string>
+    <string name="greeting">I am  %1$s.</string>
+    <string name="cancel">The operation cancel</string>
+</resources>
